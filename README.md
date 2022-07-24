@@ -15,7 +15,7 @@ I am a Backend developer and proficient in the NodeJS ecosystem. I mainly use ty
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/12/5c/e0/125ce0baff3271761ca61843eccf7985.jpg" width="36" height="36" alt="GoLang" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" width="36" height="36" alt="GoLang" /></a>
 
 ### Badges
 
