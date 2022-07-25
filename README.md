@@ -4,7 +4,7 @@ Hi 👋 My name is MiroMiro
 Backend Developer
 --------------------
 
-I am a Backend developer and proficient in the NodeJS ecosystem. I mainly use typescript and try to contribute to open source as often as possible.
+I am a Backend developer. I mainly use Python and try to contribute to open source as often as possible.
 
 * 🌍  I'm based in the Bay Area
 * 🧠  I'm learning GoLang
