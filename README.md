@@ -27,4 +27,4 @@ I am a Backend developer. I mainly use Python and try to contribute to open sour
 
 <a href="https://github.com/miromiro11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miromiro11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
