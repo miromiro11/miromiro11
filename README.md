@@ -1,61 +1,53 @@
-[![Ocean Vibes](https://media.tenor.com/RMCRswlqErwAAAAC/ocean.gif)](https://media.tenor.com/RMCRswlqErwAAAPo/ocean.mp4)
+<div align="center">
 
-# Hi there, I'm MiroMiro 👋  
-### Backend Developer | Python Enthusiast | OSS Contributor  
+# Miro
 
----
+### I turn messy interfaces into clean tools.
 
-I'm a backend developer based in the Bay Area, passionate about building scalable systems and writing clean, efficient code. I primarily work with **Python**, and I’m currently diving into **GoLang**. I love contributing to open source and learning from the community.
+Backend systems · agent infrastructure · browser-faithful automation
 
----
+[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8)](https://go.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=659AD2)](https://isocpp.org/)
 
-### 🧠 Currently Exploring
-- Learning **GoLang** and its concurrency patterns
-- Contributing to open-source tools and frameworks
-- Experimenting with scalable backend architectures
-
----
-
-### 🚀 Skills  
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/max/500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" width="36" height="36" alt="GoLang" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats  
+I'm a Bay Area engineer interested in the layer between **what software exposes** and **what people actually want to do**.
 
-<p align="left">
-  <a href="http://www.github.com/miromiro11">
-    <img src="https://github-readme-stats.vercel.app/api?username=miromiro11&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="miromiro11's GitHub stats" />
-  </a>
-</p>
+I build local-first CLIs, agent tools, backend services, protocol clients, and automation that makes complicated systems feel boring—in the best possible way. Lately, that means a lot of Go, Python, direct HTTP, TLS behavior, and figuring out how to give agents useful capabilities without handing them unsafe interfaces.
 
-<p align="left">
-  <a href="http://www.github.com/miromiro11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miromiro11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</p>
+### Selected work
 
-<p align="left">
-  <a href="https://github.com/miromiro11">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miromiro11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</p>
+| Project | What it does | Stack |
+| :--- | :--- | :---: |
+| **[shopkeeper](https://github.com/miromiro11/shopkeeper)** | Headless Craigslist search and contact extraction with aligned HTTP, TLS, and browser identities | Python |
+| **[bun-standalone-compat-plugin](https://github.com/miromiro11/bun-standalone-compat-plugin)** | Makes static package-path probes survive `bun build --compile` | TypeScript |
+| **[solana-gen](https://github.com/miromiro11/solana-gen)** | Hybrid CPU/CUDA Solana vanity-address search with a verified Ed25519 core | C++ / CUDA |
+| **[gh-sniper](https://github.com/miromiro11/gh-sniper)** | Concurrent GitHub username discovery across curated, wordlist, and brute-force strategies | Python |
 
----
+### What I'm exploring
 
-### 🏆 Trophies  
+```text
+agents that can actually do things     direct HTTP over browser dependence
+small binaries with sharp interfaces   systems that fail safely under ambiguity
+reverse-engineered workflows           automation you can understand and control
+```
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=miromiro11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Working principles
+
+- Make the interface smaller than the problem.
+- Keep decisions in the agent and mechanics in the tool.
+- Treat safety boundaries as product features.
+- Delete abstractions that have not earned their keep.
+- Ship the weird idea, then make it solid.
+
+<div align="center">
+
+**Building useful things at the edge of APIs, agents, and systems.**
+
+[See what I'm working on →](https://github.com/miromiro11?tab=repositories)
+
+</div>
