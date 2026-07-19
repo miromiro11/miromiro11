@@ -35,7 +35,7 @@
   <circle cx="1080" cy="86" r="4" fill="#B86BFF"/>
   <path d="M1066 86H925" stroke="#B86BFF" stroke-opacity=".3"/>
 
-  <text x="600" y="164" text-anchor="middle" fill="#F4FAFF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="68" font-weight="700" letter-spacing="14">ANDREY N</text>
+  <text x="600" y="164" text-anchor="middle" fill="#F4FAFF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="68" font-weight="700" letter-spacing="14">ANDREY</text>
   <rect x="404" y="188" width="392" height="2" rx="1" fill="url(#accent)"/>
   <text x="600" y="230" text-anchor="middle" fill="#A9C2D7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" letter-spacing="3">AGENTS · SYSTEMS · AUTOMATION</text>
 
