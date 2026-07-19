@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Miro — agents, systems, automation" />
+<img src="./assets/header.svg" width="100%" alt="woke — agents, systems, automation" />
 
 ### I build software that makes complicated systems feel simple.
 
