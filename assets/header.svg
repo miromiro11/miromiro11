@@ -1,0 +1,43 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="65" y1="12" x2="1138" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#081A2C"/>
+      <stop offset="1" stop-color="#110A26"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="315" y1="0" x2="904" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#21D4FD"/>
+      <stop offset="0.52" stop-color="#55F2C3"/>
+      <stop offset="1" stop-color="#B86BFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 318) rotate(-90) scale(235 700)">
+      <stop stop-color="#1DC9FF" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#1DC9FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#9CEBFF" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="blur" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
+
+  <path d="M0 282C137 246 216 319 365 282C507 247 570 209 704 253C857 304 984 216 1200 254" stroke="#1FD7FF" stroke-opacity=".13" stroke-width="38" filter="url(#blur)"/>
+  <path d="M0 288C137 252 216 325 365 288C507 253 570 215 704 259C857 310 984 222 1200 260" stroke="url(#accent)" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M0 316C155 276 250 349 405 309C563 268 640 287 761 315C897 346 1031 263 1200 290" stroke="url(#accent)" stroke-opacity=".25"/>
+
+  <circle cx="120" cy="86" r="4" fill="#55F2C3"/>
+  <path d="M134 86H275" stroke="#55F2C3" stroke-opacity=".3"/>
+  <circle cx="1080" cy="86" r="4" fill="#B86BFF"/>
+  <path d="M1066 86H925" stroke="#B86BFF" stroke-opacity=".3"/>
+
+  <text x="600" y="164" text-anchor="middle" fill="#F4FAFF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="74" font-weight="700" letter-spacing="18">MIRO</text>
+  <rect x="404" y="188" width="392" height="2" rx="1" fill="url(#accent)"/>
+  <text x="600" y="230" text-anchor="middle" fill="#A9C2D7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" letter-spacing="3">AGENTS · SYSTEMS · AUTOMATION</text>
+
+  <rect x="24" y="24" width="1152" height="312" rx="16" stroke="#B9EDFF" stroke-opacity=".09"/>
+</svg>

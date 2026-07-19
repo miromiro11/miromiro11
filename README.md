@@ -1,53 +1,52 @@
 <div align="center">
 
-# Miro
+<img src="./assets/header.svg" width="100%" alt="Miro — agents, systems, automation" />
 
-### I turn messy interfaces into clean tools.
+### I build software that makes complicated systems feel simple.
 
-Backend systems · agent infrastructure · browser-faithful automation
-
-[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8)](https://go.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=659AD2)](https://isocpp.org/)
+<p>
+  <a href="https://github.com/miromiro11?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_WORK-21D4FD?style=for-the-badge&labelColor=07111F" alt="Explore the work" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BAY_AREA-55F2C3?style=for-the-badge&labelColor=07111F" alt="Bay Area" />
+</p>
 
 </div>
 
----
+<br />
 
-I'm a Bay Area engineer interested in the layer between **what software exposes** and **what people actually want to do**.
+I'm a backend and systems engineer working where **agents, protocols, and real-world interfaces** meet. I like small binaries, direct HTTP, sharp abstractions, and automation that stays understandable when things go wrong.
 
-I build local-first CLIs, agent tools, backend services, protocol clients, and automation that makes complicated systems feel boring—in the best possible way. Lately, that means a lot of Go, Python, direct HTTP, TLS behavior, and figuring out how to give agents useful capabilities without handing them unsafe interfaces.
-
-### Selected work
-
-| Project | What it does | Stack |
-| :--- | :--- | :---: |
-| **[shopkeeper](https://github.com/miromiro11/shopkeeper)** | Headless Craigslist search and contact extraction with aligned HTTP, TLS, and browser identities | Python |
-| **[bun-standalone-compat-plugin](https://github.com/miromiro11/bun-standalone-compat-plugin)** | Makes static package-path probes survive `bun build --compile` | TypeScript |
-| **[solana-gen](https://github.com/miromiro11/solana-gen)** | Hybrid CPU/CUDA Solana vanity-address search with a verified Ed25519 core | C++ / CUDA |
-| **[gh-sniper](https://github.com/miromiro11/gh-sniper)** | Concurrent GitHub username discovery across curated, wordlist, and brute-force strategies | Python |
-
-### What I'm exploring
-
-```text
-agents that can actually do things     direct HTTP over browser dependence
-small binaries with sharp interfaces   systems that fail safely under ambiguity
-reverse-engineered workflows           automation you can understand and control
-```
-
-### Working principles
-
-- Make the interface smaller than the problem.
-- Keep decisions in the agent and mechanics in the tool.
-- Treat safety boundaries as product features.
-- Delete abstractions that have not earned their keep.
-- Ship the weird idea, then make it solid.
+<br />
 
 <div align="center">
 
-**Building useful things at the edge of APIs, agents, and systems.**
+## Selected work
 
-[See what I'm working on →](https://github.com/miromiro11?tab=repositories)
+<a href="https://github.com/miromiro11/shopkeeper">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=miromiro11&repo=shopkeeper&theme=transparent&hide_border=true&title_color=55F2C3&text_color=8B9EB0&icon_color=21D4FD" alt="shopkeeper" />
+</a>
+<a href="https://github.com/miromiro11/bun-standalone-compat-plugin">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=miromiro11&repo=bun-standalone-compat-plugin&theme=transparent&hide_border=true&title_color=55F2C3&text_color=8B9EB0&icon_color=B86BFF" alt="bun-standalone-compat-plugin" />
+</a>
+<a href="https://github.com/miromiro11/solana-gen">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=miromiro11&repo=solana-gen&theme=transparent&hide_border=true&title_color=55F2C3&text_color=8B9EB0&icon_color=21D4FD" alt="solana-gen" />
+</a>
+<a href="https://github.com/miromiro11/gh-sniper">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=miromiro11&repo=gh-sniper&theme=transparent&hide_border=true&title_color=55F2C3&text_color=8B9EB0&icon_color=B86BFF" alt="gh-sniper" />
+</a>
+
+<br /><br />
+
+## Tools of choice
+
+<img src="https://skillicons.dev/icons?i=go,python,ts,bun,cpp,docker,postgres,linux&theme=dark" alt="Go, Python, TypeScript, Bun, C++, Docker, PostgreSQL, Linux" />
+
+<br /><br />
+
+```text
+direct HTTP  ·  agent tooling  ·  backend systems  ·  browser-faithful automation
+```
+
+<sub>Ship the weird idea. Then make it solid.</sub>
 
 </div>
