@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=andrey-n" width="100%" alt="Andrey N — agents, systems, automation" />
+<img src="./assets/header.svg?v=andrey" width="100%" alt="Andrey N — agents, systems, automation" />
 
 ### I build software that makes complicated systems feel simple.
 
